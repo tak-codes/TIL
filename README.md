@@ -2,10 +2,13 @@
 [![Blog](https://img.shields.io/badge/Blog-velog.io/@takgue1224-green.svg)](https://velog.io/@takgue1224)
 
 ## Node.js
-* [JWT 로그인 기능](https://github.com/tak-codes/study-node.js-sp-mall)
-  * [제목](Url 넣기)
-  *
+* [참고 노션](https://www.notion.so/Node-js-2-76861d44b86e42b19b6a51ef1b47f0c9)
+    * [JWT 로그인 기능 및 validate](https://github.com/tak-codes/study-node.js-sp-mall)  
 
-## 도커 사용하기
-  * 도커냐ㅐ용
+
+## Docker
+* [참고 노션](https://www.notion.so/Node-js-3-c6913c1d6d194a25b1760ba206259ee5)
+    * MySQL 서버 사용
+    * Sequelize 설정
+    * 로그인에 Sequelize 적용하기
 
