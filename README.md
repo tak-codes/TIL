@@ -12,3 +12,19 @@
     * Sequelize 설정
     * 로그인에 Sequelize 적용하기
 
+
+## Javascript
+* [Js - basic](https://github.com/tak-codes/js-study)
+    * hello world 출력, 주석, 들여쓰기
+    * 변수 선언과 데이터 할당
+    * 데이터 타입
+    * 연산자
+    * 조건문
+    * 반복문
+    * 반복문과 조건문 활용
+    * 함수
+    * 클래스와 객체
+    * 배열
+
+
+
