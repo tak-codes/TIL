@@ -26,5 +26,9 @@
     * 클래스와 객체
     * 배열
 
+## Mysql
+* [My sql]()
+* 작성하기
+* escape , sql injection
 
 
