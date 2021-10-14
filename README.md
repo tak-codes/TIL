@@ -27,7 +27,7 @@
     * 배열
 
 ## Mysql
-* [My sql]()
+* [My sql](https://github.com/tak-codes/TIL/tree/master/mysql)
 * 작성하기
 * escape , sql injection
 
