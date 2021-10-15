@@ -28,10 +28,14 @@
 
 ## Mysql
 * [My sql](https://github.com/tak-codes/TIL/tree/master/mysql)
-* 작성하기
-* escape , sql injection
+    * 작성하기
+    * escape , sql injection
 
 
 ## NPM
 * [NPM.COM](https://www.npmjs.com/)
+
+## ERROR
+* [Error list](https://github.com/tak-codes/TIL/tree/master/Error-code)
+
 
