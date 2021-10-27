@@ -7,3 +7,7 @@
 * 문자열 인코딩하기! 
     * [escape , sql injection](https://devkingdom.tistory.com/90) 
  
+ * mysql 
+- mysql -uroot -p
+    - 모든 권한이 열림.
+
