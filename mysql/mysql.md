@@ -14,4 +14,4 @@
 [mysql 정리사이트-생활코딩](https://nittaku.tistory.com/375?category=764930)
 [외부접속 허용](https://abc1211.tistory.com/537)
 
-- create table in mysql cheat sheet --> 커닝페이퍼
+- create table in mysql cheat sheet --> 치트시트
