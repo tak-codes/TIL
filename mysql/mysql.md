@@ -15,3 +15,5 @@
 [외부접속 허용](https://abc1211.tistory.com/537)
 
 - create table in mysql cheat sheet --> 치트시트
+
+### 주말 mysql 넷플릭스 데이터베이스 강의 정리
