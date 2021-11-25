@@ -4,6 +4,17 @@
 * Error: Cannot find module 'C:\Users\JG\Desktop\js-study\functiong.js'
   *  터미널에서 명령어 오타
 
+* undefined 관련 에러
+```
+(node:3132) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'userEmail' of undefined
+    at C:\dev\workspace\walkingdog\routes\user.js:23:33
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:3132) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3132) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+```
+- 변수 지정 및 위치에 따라 해쉬된 변수 확인이 불가능해짐. (팬딩에 걸림)
+
 ## GIT
 * bash: cd: too many arguments: No such file or directory
 
